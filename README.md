@@ -90,17 +90,15 @@ const mushraf = {
 
 <div align="center">
 
-### 🏘️ [TownSquare | Community Web Application](https://townsquareclient.onrender.com/)
+### 🏘️ [TownSquare | Community Application](https://townsquareclient.onrender.com/)
 
 ### 👨‍💻 [DevSphere | Developer Collaboration Platform](https://dev-sphere-gilt.vercel.app/)
 
-### 🔍 [AlgoViz | Machine Learning Visualization Platform](https://algoviz-ichv.onrender.com/)
-
 ### 🔧 [Interpreter | Custom Programming Language](https://novascript-docs.onrender.com/)
 
+### 🔍 [AlgoViz | Machine Learning Visualization Platform](https://algoviz-ichv.onrender.com/)
+
 </div>
-
-
 ---
 
 ## 📊 GitHub Performance Metrics
