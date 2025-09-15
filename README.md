@@ -102,6 +102,7 @@ const mushraf = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JM-Mushraf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Mushraf&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -111,5 +112,6 @@ const mushraf = {
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank+You+for+Visiting!&fontSize=24&animation=twinkle" alt="Footer" />
 </div>
+
