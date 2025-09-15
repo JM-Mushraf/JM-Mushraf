@@ -1,195 +1,225 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+JM+MUSHRAF!;Full+Stack+Developer+🚀;Problem+Solver+💡;" />
-</h1>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mushraf-jm-386564306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/JM-Mushraf">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:mushraf1786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=JM%20MUSHRAF&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JM-Mushraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+applications;Solving+complex+problems;Creating+digital+experiences" alt="Typing SVG" />
 </div>
 
----
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/mushraf-jm-386564306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mushraf1786@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://github.com/JM-Mushraf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  </a>
+</div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JM-Mushraf&style=for-the-badge&color=667eea&labelColor=1a1b27" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/JM-Mushraf?style=for-the-badge&color=667eea&labelColor=1a1b27" alt="Followers" />
+</div>
 
-\`\`\`javascript
-const mushraf = {
-    location: "Bangalore, India",
-    education: "B.E. Student @ AMC Engineering College",
-    cgpa: "9.0/10.0",
-    currentRole: "Full Stack Developer",
-    company: "Former Intern @ Crop Now",
-    recognition: "🏆 Best Intern Award Winner",
-    
-    dailyLife: {
-        code: ["JavaScript", "Python", "C++", "Java"],
-        askMeAbout: ["Web Dev", "DevOps", "Machine Learning", "System Design"],
-        currentlyLearning: "Advanced System Architecture & Cloud Technologies",
-        funFact: "I debug with console.log and I'm proud of it! 😄"
-    },
-    
-    challenge: "Building scalable applications that make a difference! 💪"
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JM-Mushraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JM-Mushraf&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Mushraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
+\`\`\`typescript
+interface Developer {
+  name: string;
+  location: string;
+  education: {
+    degree: string;
+    institution: string;
+    cgpa: number;
+  };
+  experience: {
+    role: string;
+    company: string;
+    achievement: string;
+  };
+  expertise: string[];
+  currentFocus: string[];
+  achievements: {
+    hackathons: string[];
+    recognition: string[];
+    problemsSolved: number;
+  };
+}
+
+const mushraf: Developer = {
+  name: "JM Mushraf",
+  location: "Bangalore, India 🇮🇳",
+  education: {
+    degree: "Bachelor of Engineering",
+    institution: "AMC Engineering College",
+    cgpa: 9.0
+  },
+  experience: {
+    role: "Full Stack Development Intern",
+    company: "Crop Now",
+    achievement: "🏆 Best Intern Award"
+  },
+  expertise: [
+    "Full Stack Development",
+    "DevOps & Cloud Architecture", 
+    "Machine Learning",
+    "System Design"
+  ],
+  currentFocus: [
+    "Advanced System Architecture",
+    "Cloud Technologies",
+    "Scalable Applications"
+  ],
+  achievements: {
+    hackathons: ["4th Place @ DSATM Hackathon", "BIT Hackathon Participant"],
+    recognition: ["Best Intern @ CropNow", "Academic Excellence"],
+    problemsSolved: 200
+  }
 };
 \`\`\`
 
----
-
-## 🛠️ Tech Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Stack**
 
 <div align="center">
 
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### **Languages & Core**
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java&theme=dark" />
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **Frontend Development**
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark" />
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible&theme=dark" />
 
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **Tools & Others**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
----
-
-## 🎯 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Featured Projects**
 
 <div align="center">
 
-### 🏘️ [TownSquare - Community Web App](https://townsquareclient.onrender.com/)
-> **Interactive community platform with real-time engagement**
-- 🔥 **Socket-based architecture** for real-time communication
-- 📊 **Polls & Discussions** with automated Cron job updates  
-- ⚡ **Scalable & Low-latency** interactions
-- 🛠️ **Tech Stack:** React.js, Node.js, Socket.io, MongoDB
+<table>
+<tr>
+<td width="50%">
 
-### 👨‍💻 [DevSphere - Developer Collaboration Platform](https://dev-sphere-gilt.vercel.app/)
-> **Real-time collaboration hub for developers**
-- 💬 **Real-time chat** and collaborative post feeds
-- 🖥️ **Interactive code execution** environment
-- 🚀 **Scalable interfaces** for enhanced productivity
-- 🛠️ **Tech Stack:** React.js, Node.js, Express.js, WebSockets
+### 🏘️ **TownSquare**
+**Community Web App**
 
-### 🔍 [AlgoViz - ML Visualization Tool](https://algoviz-ichv.onrender.com/)
-> **Interactive machine learning workflow visualizer**
-- 📈 **ML Algorithms:** Regression, Classification, Clustering
-- 📊 **Dynamic CSV data** ingestion and processing
-- ⚙️ **Real-time parameter** tuning and metric tracking
-- 🛠️ **Tech Stack:** Python, Scikit-learn, Flask, Chart.js
+[![Live Demo](https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge&logo=vercel)](https://townsquareclient.onrender.com/)
 
-### 🔧 Interpreter - Custom Language Interpreter
-> **English-like syntax interpreter with functional programming**
-- 🧠 **Core language processing** components
-- 🎮 **Interactive sandbox** for real-time execution
-- 📝 **Compiler design** principles implementation
-- 🛠️ **Tech Stack:** C++, Parsing Algorithms, Compiler Design
+- 🔥 Real-time communication with Socket.io
+- 📊 Interactive polls & discussions
+- ⚡ Automated Cron job updates
+- 🛠️ React.js, Node.js, MongoDB
+
+</td>
+<td width="50%">
+
+### 👨‍💻 **DevSphere**
+**Developer Collaboration Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge&logo=vercel)](https://dev-sphere-gilt.vercel.app/)
+
+- 💬 Real-time chat & collaboration
+- 🖥️ Interactive code execution
+- 🚀 Scalable developer interfaces
+- 🛠️ React.js, Node.js, WebSockets
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 **AlgoViz**
+**ML Visualization Tool**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge&logo=vercel)](https://algoviz-ichv.onrender.com/)
+
+- 📈 ML algorithm visualization
+- 📊 Dynamic CSV data processing
+- ⚙️ Real-time parameter tuning
+- 🛠️ Python, Scikit-learn, Flask
+
+</td>
+<td width="50%">
+
+### 🔧 **Interpreter**
+**Custom Language Interpreter**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-667eea?style=for-the-badge&logo=github)](https://github.com/JM-Mushraf)
+
+- 🧠 English-like syntax parsing
+- 🎮 Interactive execution sandbox
+- 📝 Compiler design principles
+- 🛠️ C++, Parsing Algorithms
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 🏆 Achievements & Recognition
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> **Achievements**
 
 <div align="center">
 
+\`\`\`yaml
+Hackathons:
+  - "🥉 4th Place @ DSATM Hackathon"
+  - "🎯 Active BIT Hackathon Participant"
+
+Recognition:
+  - "🏅 Best Intern @ CropNow"
+  - "📚 9.0 CGPA in Engineering"
+
+Technical:
+  - "💻 200+ DSA Problems Solved"
+  - "🚀 Multiple Live Project Deployments"
+  - "⚡ Scalable Application Architecture"
 \`\`\`
-🥉 4th Place @ DSATM Hackathon          🏅 Best Intern @ CropNow
-💻 200+ DSA Problems Solved             🎯 Active BIT Hackathon Participant
-📚 9.0 CGPA in Engineering              🚀 Multiple Live Project Deployments
-\`\`\`
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Activity**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JM-Mushraf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Mushraf&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JM-Mushraf&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=667eea&point=c9d1d9&area=true&hide_border=true" />
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect!**
+
+<div align="center">
+
+**"Code is poetry written in logic"** ✨
+
+*Always excited to collaborate on innovative projects and discuss cutting-edge technologies!*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushraf-jm-386564306/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushraf1786@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JM-Mushraf)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JM-Mushraf&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JM-Mushraf&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5kf6xdnkjfg3jkh6kj&unique=1" alt="Spotify" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-**"Building the future, one commit at a time! 🚀"**
-
-*Always open to interesting conversations and collaboration opportunities!*
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushraf-jm-386564306/)
-[![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushraf1786@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
