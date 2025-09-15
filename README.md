@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=JM%20MUSHRAF&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%3C%2F%3E+JM+MUSHRAF;Full+Stack+Developer;DevOps+Engineer;Problem+Solver" alt="Programmer Animation" />
 </div>
 
 <div align="center">
@@ -76,54 +76,57 @@ const developer = {
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 100%; overflow-x: auto;">
+<div style="max-width: 100%; overflow-x: auto; padding: 10px;">
+<div style="display: flex; gap: 20px; min-width: 1000px; justify-content: center;">
 
-<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<div style="min-width: 180px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
 <h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Languages</h4>
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java&theme=dark" />
 </div>
 </div>
 
-<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<div style="min-width: 180px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
 <h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Frontend</h4>
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark" />
 </div>
 </div>
 
-<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<div style="min-width: 180px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
 <h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Backend</h4>
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 </div>
 </div>
 
-<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<div style="min-width: 180px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
 <h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">DevOps</h4>
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins&theme=dark" />
 </div>
 </div>
 
-<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<div style="min-width: 180px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
 <h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Tools</h4>
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </div>
 </div>
 
+</div>
 </div>
 
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Featured Projects**
 
-<div align="center">
+<div align="center" style="max-width: 100%; overflow-x: auto; padding: 10px;">
+<div style="min-width: 800px;">
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 15px; vertical-align: top;">
 
 ### 🏘️ **TownSquare**
 **Community Web App**
@@ -136,7 +139,7 @@ const developer = {
 - 🛠️ React.js, Node.js, MongoDB
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 15px; vertical-align: top;">
 
 ### 👨‍💻 **DevSphere**
 **Developer Collaboration Platform**
@@ -151,7 +154,7 @@ const developer = {
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 15px; vertical-align: top;">
 
 ### 🔍 **AlgoViz**
 **ML Visualization Tool**
@@ -164,7 +167,7 @@ const developer = {
 - 🛠️ Python, Scikit-learn, Flask
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 15px; vertical-align: top;">
 
 ### 🔧 **Interpreter**
 **Custom Language Interpreter**
@@ -179,6 +182,9 @@ const developer = {
 </td>
 </tr>
 </table>
+
+</div>
+</div>
 
 </div>
 
