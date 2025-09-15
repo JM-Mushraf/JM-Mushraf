@@ -3,8 +3,9 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+JM+MUSHRAF!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hello+World!+🌎;I'm+JM+MUSHRAF!;" />
 </h1>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mushraf-jm-386564306/">
