@@ -22,10 +22,9 @@
   <img src="https://komarev.com/ghpvc/?username=JM-Mushraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
----
+## 🚀 About Me & Technical Skills
 
-## 🚀 About Me
-
+```javascript
 const mushraf = {
     role: ["Software Developer (Student)", "DevOps Enthusiast"],
     skills: {
@@ -37,10 +36,8 @@ const mushraf = {
     },
     about: "Student developer passionate about fullstack development and DevOps. Exploring modern tools to build and scale real-world applications."
 };
-
-
----
-## 🛠️ Technical Expertise
+```
+## 🛠️ Technical Skills
 <div align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
@@ -85,7 +82,7 @@ const mushraf = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
 </div>
 
 
