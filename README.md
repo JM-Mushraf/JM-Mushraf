@@ -108,10 +108,3 @@ const mushraf = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JM-Mushraf&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank+You+for+Visiting!&fontSize=24&animation=twinkle" alt="Footer" />
-</div>
-
