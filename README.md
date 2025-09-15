@@ -36,30 +36,14 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-\`\`\`typescript
-interface Developer {
-  name: string;
-  location: string;
-  education: {
-    degree: string;
-    institution: string;
-    cgpa: number;
-  };
-  experience: {
-    role: string;
-    company: string;
-    achievement: string;
-  };
-  expertise: string[];
-  currentFocus: string[];
-  achievements: {
-    hackathons: string[];
-    recognition: string[];
-    problemsSolved: number;
-  };
-}
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+DevOps+Engineer;Building+scalable+applications+with+modern+tech;Passionate+about+clean+code+and+system+design" alt="About Me" />
+</div>
 
-const mushraf: Developer = {
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0;">
+
+\`\`\`typescript
+const developer = {
   name: "JM Mushraf",
   location: "Bangalore, India 🇮🇳",
   education: {
@@ -80,35 +64,56 @@ const mushraf: Developer = {
   ],
   currentFocus: [
     "Advanced System Architecture",
-    "Cloud Technologies",
+    "Cloud Technologies", 
     "Scalable Applications"
-  ],
-  achievements: {
-    hackathons: ["4th Place @ DSATM Hackathon", "BIT Hackathon Participant"],
-    recognition: ["Best Intern @ CropNow", "Academic Excellence"],
-    problemsSolved: 200
-  }
+  ]
 };
 \`\`\`
+
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Stack**
 
 <div align="center">
 
-### **Languages & Core**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 100%; overflow-x: auto;">
+
+<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Languages</h4>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java&theme=dark" />
+</div>
+</div>
 
-### **Frontend Development**
+<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Frontend</h4>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark" />
+</div>
+</div>
 
-### **Backend & Database**
+<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Backend</h4>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+</div>
+</div>
 
-### **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible&theme=dark" />
+<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">DevOps</h4>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins&theme=dark" />
+</div>
+</div>
 
-### **Tools & Others**
+<div style="min-width: 200px; background: linear-gradient(135deg, #1a1b27 0%, #2d2e3f 100%); border-radius: 10px; padding: 15px; border: 1px solid #667eea;">
+<h4 align="center" style="color: #667eea; margin: 0 0 10px 0;">Tools</h4>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</div>
+</div>
+
+</div>
 
 </div>
 
@@ -177,34 +182,7 @@ const mushraf: Developer = {
 
 </div>
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> **Achievements**
-
-<div align="center">
-
-\`\`\`yaml
-Hackathons:
-  - "🥉 4th Place @ DSATM Hackathon"
-  - "🎯 Active BIT Hackathon Participant"
-
-Recognition:
-  - "🏅 Best Intern @ CropNow"
-  - "📚 9.0 CGPA in Engineering"
-
-Technical:
-  - "💻 200+ DSA Problems Solved"
-  - "🚀 Multiple Live Project Deployments"
-  - "⚡ Scalable Application Architecture"
-\`\`\`
-
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Activity**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JM-Mushraf&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=667eea&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect!**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **Let's Connect!**
 
 <div align="center">
 
